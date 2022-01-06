@@ -4,7 +4,7 @@ info:
   author: smaranchand
   severity: high
   tags: exposed-panels
-  reference:
+  reference: https://smaranchand.com.np/doesnotexists
 requests:
   - method: GET
     path:
