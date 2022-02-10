@@ -1,4 +1,4 @@
 # Private-Nuclei-Templates
 
-Here are some nuclei templates i created during the security assessment of the clients.
-These will be uploaded in official nuclei repository soon.
+Here are some nuclei templates i created during the security assessment of the clients by experiencing the system issues.
+Keep checking the repository. :)
